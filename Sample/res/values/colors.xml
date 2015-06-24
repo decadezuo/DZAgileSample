@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <!-- 注册 -->
+    <color name="custom_blue">#00a7ed</color>
+    <color name="form_title_color">#666768</color>
+    <color name="form_content_color">#353535</color>
+    <color name="form_line_color">#f5f5f5</color>
+    <color name="dialog_line_color">#e6e6e5</color>
+    <color name="white">#ffffff</color>
+    <color name="menu_bg">#ff3a3c42</color>
+    <color name="dialog_green_btn">#00ab69</color>
+    <color name="dialog_gray_btn">#616472</color>
+    
+</resources>
